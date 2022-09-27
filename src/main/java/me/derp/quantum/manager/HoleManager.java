@@ -74,4 +74,3 @@ public class HoleManager
         return isSafe;
     }
 }
-
